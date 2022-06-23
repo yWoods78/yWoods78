@@ -1,16 +1,19 @@
-### Hi there 👋
+### Opa! 👋
 
-<!--
-**yWoods78/yWoods78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<b>Sobre mim:<b><br>
+  Meu nome é Samuel Felipe tenho 17 anos e atualmente sou desenvolvedor fullstack focado no fivem<br> Sou dono da <a href='https://discord.gg/KWxsjNvJRK'>Dev2up</a> e dev na <a href='https://aftercity.online/'>After City</a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=yWoods78&show_icons=true&theme=dark"/>
+  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yWoods78&layout=compact&langs_count=16&theme=dark"/>
+</div>
+  
+  ## Linguagens
+  
+<div style='display: inline_block'>
+  <img align="center" alt='woods-Lua' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg">
+  <img align="center" alt='woods-JS' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt='woods-HTML' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt='woods-CSS' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+</div
