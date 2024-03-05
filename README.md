@@ -2,7 +2,7 @@
 
 
 <b>Sobre mim:<b><br>
-  Meu nome é Samuel Felipe tenho 18 anos , sou estudante de analise e desolvimento de sistemas e atualmente sou desenvolvedor fullstack focado no fivem<br>Atualmente no 3º periodo.<br> Sou dono da <a href='https://discord.gg/KWxsjNvJRK'>Dev2up</a>
+  Meu nome é Samuel Felipe tenho 19 anos , sou estudante de analise e desolvimento de sistemas e atualmente sou desenvolvedor fullstack focado no fivem<br>Atualmente no 3º periodo.<br> Sou dono da <a href='https://discord.gg/KWxsjNvJRK'>Dev2up</a>
 
 <div>
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=yWoods78&show_icons=true&theme=dark"/>
